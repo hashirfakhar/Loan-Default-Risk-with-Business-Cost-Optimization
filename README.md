@@ -1,5 +1,3 @@
-# Task 9 – Loan Default Risk with Business Cost Optimization
-
 ## Objective
 The goal of this task is to predict loan default risk using the Home Credit Default Risk dataset. Unlike standard classification tasks, the focus here is not only on accuracy but also on **business cost optimization** — minimizing financial losses due to false approvals (risky clients approved) and false rejections (safe clients denied).
 
