@@ -38,5 +38,5 @@ The goal of this task is to predict loan default risk using the Home Credit Defa
 
 ---
 
-## ✅ Conclusion
+## Conclusion
 This task highlights the importance of incorporating **business impact** into machine learning. By adjusting decision thresholds with cost optimization, financial institutions can reduce potential losses and make smarter credit approval decisions.
